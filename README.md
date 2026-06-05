@@ -146,4 +146,4 @@ If you prefer deploying the frontend to **Vercel**, you must host the backend se
 - **Database**: The backend uses a local SQLite file (`database.sqlite`). If you encounter DB errors, ensuring the backend folder has write permissions usually fixes it.
 - **Images**: Uploaded images are stored in `backend/uploads`. Ensure this directory exists (the server creates it automatically on start).
 
-<!-- pr-bot-update: 2026-06-05T03:48:27.707Z -->
+<!-- pr-bot-update: 2026-06-05T03:48:57.805Z -->
